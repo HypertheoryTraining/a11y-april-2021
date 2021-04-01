@@ -1,0 +1,18 @@
+.subheading {
+    font-size: 1.3213em;
+}
+
+header .main-heading {
+    color: coral;
+}
+
+article>h2 {
+    color: green;
+}
+
+input::-webkit-calendar-picker-indicator{
+	display: none;
+}
+input[type="date"]::-webkit-input-placeholder{
+	visibility: hidden !important;
+}
